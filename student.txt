@@ -1,0 +1,4 @@
+student name: Wing Sam Lo
+student number: 640711
+student class: HAIT1C
+URL student github repository: 
